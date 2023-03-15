@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rakeshnoothi/room-homepage-master)
-- Live Site URL: [Add live site URL here](https://effervescent-peony-e22b75.netlify.app/)
+- Solution URL: [open project](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-0MY8xv1ndk)
+- Live Site URL: [ open live site](https://effervescent-peony-e22b75.netlify.app/)
 
 ### Built with
 
