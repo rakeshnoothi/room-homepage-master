@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [open project](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-0MY8xv1ndk)
-- Live Site URL: [ open live site](https://effervescent-peony-e22b75.netlify.app/)
+- Live Site URL: [ open live site](https://rakesh-room-home-page.netlify.app/)
 
 ### Built with
 
